@@ -1,6 +1,6 @@
 1. package a box
 command:    
-  vagrant package ubuntu14 --vagrantfile Vagrantfile
+  vagrant package --vagrantfile Vagrantfile --output NAME
 link: http://docs.vagrantup.com/v2/cli/package.html
 
 
